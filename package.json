@@ -1,0 +1,18 @@
+{
+  "name": "multiroom-chat-real-time",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anna Moura Sobral",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "consign": "^0.1.6",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "express-validator": "^6.15.0"
+  }
+}
